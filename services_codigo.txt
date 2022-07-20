@@ -1,0 +1,56 @@
+<!-- Services Start -->
+    <div class="container-fluid py-5">
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-lg-6 pr-lg-5">
+            <h6 class="text-primary font-weight-normal text-uppercase mb-3">
+              NUESTROS SERVICIOS
+            </h6>
+            <h1 class="mb-4 section-title">
+              TE AYUDAMOS A PLASMAR TUS PROYECTOS
+            </h1>
+            <p>
+              Diseño corporativo, comercial y residencial. Planificación de
+              espacios, proyectos de remodelación e identidad institucional.
+              Implementación, ejecución de obras y asesorías.
+            </p>
+            <a href="" class="btn btn-primary mt-3 py-2 px-4">Ver más</a>
+          </div>
+          <div class="col-lg-6 p-0 pt-5 pt-lg-0">
+            <div class="owl-carousel service-carousel position-relative">
+              <div class="d-flex flex-column text-center bg-light mx-3 p-4">
+                <h3>
+                  <img src="/img/wall.png" />
+                </h3>
+                <h5 class="mb-3">Tipos de Acabados</h5>
+                <p class="m-0">
+                  Drywall, melamine, mármol, granito y cuarzo para cocina,
+                  dormitorio, sala de estar y otros.
+                </p>
+              </div>
+              <div class="d-flex flex-column text-center bg-light mx-3 p-4">
+              <h3>
+                  <img src="/img/painting.png" />
+                </h3>
+                <h5 class="mb-3">Pintura Decorativa</h5>
+                <p class="m-0">
+                  Para interiores y exteriores, diferentes técnicas, efectos
+                  modernos y elegantes.
+                </p>
+              </div>
+              <div class="d-flex flex-column text-center bg-light mx-3 p-4">
+                <h3>
+                  <img src="/img/pipe.png" />
+                </h3>
+                <h5 class="mb-3">Servicios Generales</h5>
+                <p class="m-0">
+                  Electricidad, gasfitería y carpintería en diversas áreas para
+                  su hogar o empresa.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Services End -->
